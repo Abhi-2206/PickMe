@@ -19,7 +19,7 @@ Recent Colors: Stores your last 5 selected colors, even after refreshing the pag
 
 Contrast Checker: Shows whether your chosen color has good contrast with white and black.
 
-🛠️ Technologies Used
+-----  Technologies Used  -----
 
 HTML – Structure of the page
 
@@ -33,17 +33,17 @@ JavaScript – Functionality and logic (no frameworks used)
 │── styles.css
 └── app.js
 
-🎯 Goal of the Project
+-----  Goal of the Project  -----
 
 The purpose of this project was to create a simple, easy-to-use color tool suitable for a college assignment.
 It focuses on clarity, basic functionality, and clean code — without any unnecessary complexity or heavy design.
 
-🚀 How to Run
+-----  How to Run  ------
 
 Just open index.html in any modern browser.
 No installation, no setup — it works instantly.
 
-✅ Status
+-----  Status  ------
 
 Fully working and complete.
 Covers all required features for a basic color picker tool.
